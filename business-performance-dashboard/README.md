@@ -28,7 +28,8 @@ This project analyzes retail sales data to evaluate business performance across 
 - Strong year-end seasonality observed in sales
 
 ## Dashboard Preview
-(Add screenshot here)
+<img width="1163" height="701" alt="image" src="https://github.com/user-attachments/assets/f2a6ddae-3dab-4c1c-a24e-49cf8c0105d5" />
+
 
 ## Conclusion
 The dashboard provides executives with a clear view of business health, profit drivers, and areas requiring attention.
